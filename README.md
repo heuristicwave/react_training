@@ -6,9 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Virtual DOM
 
-React는 실제로 DOM을 제어하는 방식이 아니라 중간에 가상의 DOM인 virtual dom을 두어 개발의 편의성과 성능을 개선.
+React는 실제로 DOM을 제어하는 방식이 아니라 중간에 가상의 DOM인 virtual dom을 두어 개발의 편의성과 성능을 개선. [Naver D2 React 적용 가이드](https://d2.naver.com/helloworld/9297403)
 
-> https://d2.naver.com/helloworld/9297403
-
-컴포넌트 : HTML을 반환하는 함수
-JSX : HTML과 js를 다루는 JavaScript를 확장한 문법
+- 컴포넌트 : HTML을 반환하는 함수
+- JSX : HTML과 js를 다루는 JavaScript를 확장한 문법
